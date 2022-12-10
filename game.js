@@ -99,4 +99,4 @@ function updateScore(score) {
   scoreCont.innerHTML = "Your Score:" + score;
 }
 
-console.log("Jenkins on ,happy coding")
+console.log("Jenkins on ,happy coding.")
